@@ -1,4 +1,4 @@
-print(akash);time.sleep(4)
+print(steviic);time.sleep(4)
 
 
 sys.stdout.write('\x1b]2; 𓆩🀪💚【STEVIIC】㊝𓆪 🔥 \x07')
